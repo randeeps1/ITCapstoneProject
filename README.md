@@ -1,5 +1,5 @@
 # ITCapstoneProject
-This project organizes NBA stats using python, JSON, Javascript, HTML, CSS, and SQLite.
+This project organizes NBA stats using python, JSON, Javascript, HTML, CSS, flask, and SQLite.
 
 Download the NBAProject4 and open in visual studio code or pycharm.
 How to run this project :
